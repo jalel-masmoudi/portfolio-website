@@ -472,7 +472,7 @@ MIT License - Feel free to use as template!
 
 **Jalel Masmoudi**  
 Computer Science Student | Portfolio Website  
-📧 jalel.masmoudi@example.com
+📧 m.j.masmoudi1@gmail.com
 
 ---
 
